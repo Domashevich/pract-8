@@ -1,0 +1,11 @@
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\bin\Debug\WindowsFormsApp61.exe.config
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\bin\Debug\WindowsFormsApp61.exe
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\bin\Debug\WindowsFormsApp61.pdb
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.csproj.AssemblyReference.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.Form1.resources
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.Properties.Resources.resources
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.csproj.GenerateResource.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.exe
+C:\Users\Наталья\Source\Repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.pdb

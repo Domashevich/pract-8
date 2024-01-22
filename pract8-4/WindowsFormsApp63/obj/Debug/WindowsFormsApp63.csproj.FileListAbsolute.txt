@@ -1,0 +1,11 @@
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.csproj.AssemblyReference.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.Form1.resources
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.Properties.Resources.resources
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.csproj.GenerateResource.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\bin\Debug\WindowsFormsApp63.exe.config
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\bin\Debug\WindowsFormsApp63.exe
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\bin\Debug\WindowsFormsApp63.pdb
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.exe
+C:\Users\Наталья\Source\Repos\WindowsFormsApp63\WindowsFormsApp63\obj\Debug\WindowsFormsApp63.pdb
